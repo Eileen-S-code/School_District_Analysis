@@ -5,13 +5,14 @@ There was evidence of academic dishonest in the reading and math grades for Thom
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-How is the district summary affected? The district summary was relatively the same with all scores being effected by less than 1%
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+- The district summary was relatively the same with all scores being effected by less than 1%
+- The school summary was uneffected.
+- The performance of Thomas High School was uneffected
+- How does replacing the ninth-grade scores affect the following:
+- The reading and math scores are NaNs for Thomas High School
+- The scores by school spending were uneffected
+- The scores by school size were uneffected
+- The scores by school type were uneffected
 
-## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
+The removal of the nineth graders from the overall district results had little effect. However when they are left as NaNs they reduced the average math score, reduced the students passing math, reduced the students passing reading, and reduced the overall student pass rate.
